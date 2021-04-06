@@ -1,4 +1,4 @@
-# noping-account-generator
+# NoPing account generator
  Trial account generator for NoPing
 ## TODO
 - It is not working 100% yet. You still needing to insert you fingerprint param. I will fix on next PR.
