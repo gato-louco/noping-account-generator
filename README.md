@@ -1,4 +1,4 @@
-# NoPing account generator
+# NoPing account generator (beta version)
  Trial account generator for NoPing
 ## TODO
 - It is working
