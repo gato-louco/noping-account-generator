@@ -15,3 +15,5 @@
 - ~~Host the server~~
 - Clean and explain the code on comments
 - I know the code is a mess. I should fix that too
+
+<img src=https://189b678c16f421bd370411fe9362d364.m.pipedream.net>
