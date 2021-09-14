@@ -15,3 +15,8 @@
 - ~~Host the server~~
 - Clean and explain the code on comments
 - I know the code is a mess. I should fix that too
+
+## Update
+- looks like noping saw the project and fixed it.
+- I am archiving this project for now.
+- If someone wants to update it, feel free to create a pull request
